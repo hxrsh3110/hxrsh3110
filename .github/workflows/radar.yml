@@ -33,7 +33,7 @@ jobs:
       # Live radar built from real language byte counts across your repos
       - name: Language radar
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.METRICS_TOKEN }}
         run: |
           python scripts/radar.py \
             --github "${{ github.repository_owner }}" \

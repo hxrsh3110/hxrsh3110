@@ -4,25 +4,25 @@
      Colour mode, so one file serves both GitHub themes. Regenerate with:
        python scripts/dotify.py assets/jacket.png -o assets/portrait \
          --cols 100 --equalize --detail 0.5 --color -->
-<img src="assets/portrait.svg" width="300" alt="Gargi Bhardwaj, rendered as a dot matrix">
+<img src="assets/portrait.svg" width="300" alt="Harsh Bankar, rendered as a dot matrix">
 
 <br>
 
 <!-- NAME / TAGLINE - animated typing -->
-<a href="https://github.com/gargibhardwaj24">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2600&pause=900&color=39D353&center=true&vCenter=true&width=560&lines=Gargi+Bhardwaj;Machine+Learning+%26+Web+Dev;Competitive+Programmer;01100011+01101111+01100100+01100101" alt="typing banner">
+<a href="https://github.com/hxrsh3110">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2600&pause=900&color=39D353&center=true&vCenter=true&width=560&lines=Harsh+Bankar;Cloud+Infrastructure+%26+DevOps;01100011+01101111+01100100+01100101" alt="typing banner">
 </a>
 
 <br>
 
 <!-- SOCIALS -->
-<a href="https://linkedin.com/in/gargibhardwaj24"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="mailto:gargibhardwaj2430@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-<a href="https://dossier-iota-one.vercel.app"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
-<a href="https://codeforces.com/profile/gargibhardwaj24"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"></a>
-<a href="https://leetcode.com/u/gargibhardwaj24"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"></a>
+<a href="https://linkedin.com/in/harsh-bankar"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="mailto:harshbankar31@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+<!-- <a href="https://dossier-iota-one.vercel.app"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a> -->
+<!-- <a href="https://codeforces.com/profile/gargibhardwaj24"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"></a> -->
+<!-- <a href="https://leetcode.com/u/gargibhardwaj24"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"></a> -->
 
-<img src="https://komarev.com/ghpvc/?username=gargibhardwaj24&style=flat&color=39d353&label=profile+views" alt="profile views">
+<img src="https://komarev.com/ghpvc/?username=hxrsh3110&style=flat&color=39d353&label=profile+views" alt="profile views">
 
 </div>
 
@@ -34,13 +34,13 @@
 $ cat about.txt
 ```
 
-Hi, I'm **Gargi Bhardwaj**. I build things that sit somewhere between machine learning and the web,
-and I solve problems for fun when neither of those is cooperating.
+Hi, I'm **Harsh Bankar**. I'm currently diving deep into cloud infrastructure and DevOps, figuring out how to build resilient systems and streamline the path from code to production.
 
-- Currently building **[Sage](https://github.com/gargibhardwaj24/Sage)** and **[Spyder](https://github.com/gargibhardwaj24/spyder_frontend)**
-- Portfolio: **[dossier-iota-one.vercel.app](https://dossier-iota-one.vercel.app)**
-- Learning **React + Machine Learning**
-- Fun fact: **I started coding seriously because I wanted to build things I wished existed.**
+- Currently building **[Cloud Deployed Threat Sensor](https://github.com/hxrsh3110/Cloud-Deployed-Threat-Intelligence-Sensor.git)** 
+<!-- and **[Spyder](https://github.com/hxrsh3110/spyder_frontend)** -->
+<!-- - Portfolio: **[dossier-iota-one.vercel.app](https://dossier-iota-one.vercel.app)** -->
+- Learning **DevOps + Cloud Infrastructure**
+- Fun fact: **I shifted toward cloud and infrastructure because writing code is only half the fun; making sure it stays up when everything goes sideways is the real challenge.**
 
 <br>
 
@@ -48,7 +48,7 @@ and I solve problems for fun when neither of those is cooperating.
 
 ## `~/` toolbox
 
-<img src="https://skillicons.dev/icons?i=cpp,js,ts,react,nextjs,nodejs,tailwind,postgres,mongodb,jwt,oauth,git,github,vscode,html,css&perline=11" alt="tech stack">
+<img src="https://skillicons.dev/icons?i=aws,gcp,terraform,docker,kubernetes,jenkins,shell,linux,py,ubuntu,powershell,bash,js,java,ts,nodejs,git,github,githubactions,vscode,html,kali&perline=11" alt="tech stack">
 
 </div>
 
@@ -98,9 +98,9 @@ and I solve problems for fun when neither of those is cooperating.
 
 <!-- Snake eats the contribution graph - .github/workflows/snake.yml -->
 <picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/gargibhardwaj24/gargibhardwaj24/output/snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gargibhardwaj24/gargibhardwaj24/output/snake.svg">
-  <img src="https://raw.githubusercontent.com/gargibhardwaj24/gargibhardwaj24/output/snake.svg" width="100%" alt="snake eating the contribution graph">
+  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/hxrsh3110/hxrsh3110/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hxrsh3110/hxrsh3110/output/snake.svg">
+  <img src="https://raw.githubusercontent.com/hxrsh3110/hxrsh3110/output/snake.svg" width="100%" alt="snake eating the contribution graph">
 </picture>
 
 </div>
@@ -141,35 +141,35 @@ and I solve problems for fun when neither of those is cooperating.
 <table>
 <tr>
 <td width="50%">
-  <a href="https://github.com/gargibhardwaj24/dossier">
+  <a href="https://github.com/hxrsh3110/Cloud-Deployed-Threat-Intelligence-Sensor.git">
     <picture>
-      <source media="(prefers-color-scheme: dark)"  srcset="assets/card-dossier-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="assets/card-dossier-light.svg">
-      <img src="assets/card-dossier-dark.svg" width="420" alt="dossier">
+      <source media="(prefers-color-scheme: dark)"  srcset="assets/card-honeypot-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="assets/card-honeypot-light.svg">
+      <img src="assets/card-honeypot-dark.svg" width="420" alt="honeypot">
     </picture>
   </a>
 </td>
 <td width="50%">
-  <a href="https://github.com/gargibhardwaj24/Sage">
+  <a href="https://github.com/hxrsh3110/Reconnaissance-Tool">
     <picture>
-      <source media="(prefers-color-scheme: dark)"  srcset="assets/card-Sage-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="assets/card-Sage-light.svg">
-      <img src="assets/card-Sage-dark.svg" width="420" alt="Sage">
+      <source media="(prefers-color-scheme: dark)"  srcset="assets/card-recon-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="assets/card-recon-light.svg">
+      <img src="assets/card-recon-dark.svg" width="420" alt="recon">
     </picture>
   </a>
 </td>
 </tr>
 <tr>
 <td width="50%">
-  <a href="https://github.com/gargibhardwaj24/Socrates">
+  <a href="https://github.com/hxrsh3110/NeuroHub">
     <picture>
-      <source media="(prefers-color-scheme: dark)"  srcset="assets/card-Socrates-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="assets/card-Socrates-light.svg">
-      <img src="assets/card-Socrates-dark.svg" width="420" alt="Socrates">
+      <source media="(prefers-color-scheme: dark)"  srcset="assets/card-NeuroHub-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="assets/card-NeuroHub-light.svg">
+      <img src="assets/card-NeuroHub-dark.svg" width="420" alt="NeuroHub">
     </picture>
   </a>
 </td>
-<td width="50%">
+<!-- <td width="50%">
   <a href="https://github.com/gargibhardwaj24/humanOS">
     <picture>
       <source media="(prefers-color-scheme: dark)"  srcset="assets/card-humanOS-dark.svg">
@@ -177,11 +177,11 @@ and I solve problems for fun when neither of those is cooperating.
       <img src="assets/card-humanOS-dark.svg" width="420" alt="humanOS">
     </picture>
   </a>
-</td>
+</td> -->
 </tr>
 </table>
 
-<sub>
+<!-- <sub>
 
 | project | live | stack |
 |---|---|---|
@@ -190,7 +190,7 @@ and I solve problems for fun when neither of those is cooperating.
 | **[Socrates](https://github.com/gargibhardwaj24/Socrates)** | [socrates-one-coral.vercel.app](https://socrates-one-coral.vercel.app) | `Next.js` `Prisma` `TypeScript` |
 | **[humanOS](https://github.com/gargibhardwaj24/humanOS)** | [human-os-two.vercel.app](https://human-os-two.vercel.app) | `JavaScript` `Gemini` |
 
-</sub>
+</sub> -->
 
 </div>
 
