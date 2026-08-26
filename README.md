@@ -48,7 +48,7 @@ Hi, I'm **Harsh Bankar**. I'm currently diving deep into cloud infrastructure an
 
 ## `~/` toolbox
 
-<img src="https://skillicons.dev/icons?i=aws,gcp,terraform,docker,kubernetes,jenkins,linux,py,ubuntu,powershell,bash,js,java,ts,nodejs,git,github,githubactions,vscode,html,kali&perline=11" alt="tech stack">
+<img src="https://skillicons.dev/icons?i=aws,gcp,terraform,docker,kubernetes,jenkins,linux,py,ubuntu,powershell,bash,js,java,ts,nodejs,git,github,githubactions,vscode,html,c,cpp,kali&perline=11" alt="tech stack">
 
 </div>
 
