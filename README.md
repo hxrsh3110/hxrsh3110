@@ -158,6 +158,9 @@ Hi, I'm **Harsh Bankar**. I'm currently diving deep into cloud infrastructure an
     </picture>
   </a>
 </td>
+
+</tr>
+<tr>
 <td width="50%">
   <a href="https://github.com/hxrsh3110/NeuroHub">
     <picture>
@@ -167,18 +170,15 @@ Hi, I'm **Harsh Bankar**. I'm currently diving deep into cloud infrastructure an
     </picture>
   </a>
 </td>
-</tr>
-<tr>
-
-<!-- <td width="50%">
-  <a href="https://github.com/gargibhardwaj24/humanOS">
+<td width="50%">
+  <a href="https://github.com/hxrsh3110/Playlist-Manager.git">
     <picture>
-      <source media="(prefers-color-scheme: dark)"  srcset="assets/card-humanOS-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="assets/card-humanOS-light.svg">
-      <img src="assets/card-humanOS-dark.svg" width="420" alt="humanOS">
+      <source media="(prefers-color-scheme: dark)"  srcset="assets/card-Playlist-Manager-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="assets/card-Playlist-Manager-light.svg">
+      <img src="assets/card-Playlist-Manager-dark.svg" width="420" alt="Playlist-Manager">
     </picture>
   </a>
-</td> -->
+</td>
 </tr>
 </table>
 

@@ -6,7 +6,7 @@
     { "label": "Docker",     "value": 82 },
     { "label": "Node.js",    "value": 74 },
     { "label": "GitHub Actions",        "value": 70 },
-    { "label": "Python",     "value": 80 },
+    { "label": "Python",     "value": 88 },
     { "label": "Terraform",  "value": 60 }
   ]
 }

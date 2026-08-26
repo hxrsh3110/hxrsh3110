@@ -12,6 +12,10 @@
     {
       "repo": "NeuroHub",
       "description": "An automated content-generation platform that creates text, visual, and audio assets for creators and social media."
+    },
+    {
+      "repo": "Playlist-Manager",
+      "description": "A desktop audio player and library organizer that lets you manage, search, and play music with full undo and redo support."
     }
   ]
 }
